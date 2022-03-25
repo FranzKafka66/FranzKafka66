@@ -1,10 +1,5 @@
 ### Hi I'm FranzKafka 👋
 
-<!html--
-**FranzKafka66/FranzKafka66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on QT/Linux Platform
 - 🌱 I’m currently learning Go,Shell and Python
 - 👯 I’m looking to collaborate on Telegram and Github
