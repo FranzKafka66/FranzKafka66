@@ -1,5 +1,5 @@
 ### Hi I'm FranzKafka 👋
-
+<h1 align=  🔭 I’m currently working on Android/Linux Platform
 <!--
 **FranzKafka66/FranzKafka66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Nothing
 - ⚡ Fun fact: Reading,Coding,Music
 - 💬 Be free to ask me about anything here.
--->
+
