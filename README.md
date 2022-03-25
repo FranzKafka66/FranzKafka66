@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Android/Linux Platform
+- 🔭 I’m currently working on QT/Linux Platform
 - 🌱 I’m currently learning Go,Shell and Python
 - 👯 I’m looking to collaborate on Telegram and Github
 - 🤔 I’m looking for help with Making Money
